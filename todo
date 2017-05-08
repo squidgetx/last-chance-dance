@@ -1,0 +1,4 @@
+EMAIL ALIASES! (... edit distance? and email people to confirm?)
+Don't send match emails to people who didn't submit the form ; check if :wanted is empty
+Actually make the email
+Lowercase/standardize the email addresses...
